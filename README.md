@@ -69,7 +69,4 @@ df = pd.DataFrame(data1)
 The script will produce a DataFrame containing information about the books in the "Mystery" category, including book titles, prices, and star ratings.
 
 
-## Author
-[@Hk669].
-
 Feel free to use and modify this script as per your requirements. If you encounter any issues or have suggestions for improvements, please don't hesitate to create an issue or pull request on the GitHub repository. Happy scraping and data analysis!
